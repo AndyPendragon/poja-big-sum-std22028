@@ -19,3 +19,4 @@ with_own_vpc: 'true'
 with_swagger_ui: 'false'
 worker_batch: 5
 worker_memory: 1024
+
